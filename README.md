@@ -17,5 +17,6 @@
 </div>
 <br><br>
   <h1>İletişim</h1>
-  <a href="https://discord.com/users/783954675446579220" target="_blank"><img src="https://shields.io/badge/Nihat.svg?&style=for-the-badge&logo=discord"></a>
+  <a href="https://discord.com/users/783954675446579220" target="_blank"><img src="https://img.shields.io/badge/thekiarea-dev?style=for-the-badge&logo=discord&color=black
+"></a>
 </div>
